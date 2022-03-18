@@ -1,0 +1,6 @@
+aiohttp
+aiodns
+SQLAlchemy
+asyncpg
+marshmallow
+marshmallow-sqlalchemy
